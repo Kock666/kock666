@@ -8,7 +8,7 @@
 
 <img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
 
-### My profile <img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
+### Welcome to my profile <img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 
 
 
