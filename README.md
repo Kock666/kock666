@@ -8,11 +8,7 @@
 
 <img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
 
-### Welcome to my profile <img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
-
-
-
->>> Caue Marques  ✌🏻<br>
+### Caue marques Welcome to my profile ✌🏻 <img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 >>> And currently Hello My name and Caue Marques And currently I'm pursuing degree in from UEPB  University Computer Science , 
 
 And well, what  .<br>
@@ -45,7 +41,7 @@ And well, what  .<br>
 <div> 
   <a href="https://www.instagram.com/marquessan259" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cmarques7979@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cauê-marques-753407306" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
