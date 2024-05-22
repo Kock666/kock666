@@ -43,7 +43,7 @@ And well, what  .<br>
 ### Where to find me! <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
 
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/marquessan259" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cauê-marques-753407306" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -74,8 +74,6 @@ And well, what  .<br>
   ## 🎮 Try pressing the buttons and come back down
 
 <div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
-
 
 <br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
 <br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
@@ -89,5 +87,3 @@ And well, what  .<br>
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-
